@@ -1,1 +1,2 @@
-# pw8-13_2023
+# Math Project Work (8-13)
+## *Nim - Mathematical Strategy*
